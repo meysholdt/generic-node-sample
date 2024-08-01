@@ -1,0 +1,7 @@
+image:
+  file: .gitpod/.gitpod.Dockerfile
+
+tasks:
+  - name: init
+    command: |
+      curl $SRC -o main.tsx
