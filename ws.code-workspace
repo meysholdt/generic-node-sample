@@ -1,0 +1,14 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            ".gitpod.yml": true,
+            ".gitpod.Dockerfile": true,
+            "ws.code-workspace": true
+        }
+    }
+}
