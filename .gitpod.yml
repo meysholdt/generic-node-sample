@@ -1,5 +1,6 @@
 image:
   file: .gitpod/.gitpod.Dockerfile
+  context: .gitpod/
 
 tasks:
   - name: init
