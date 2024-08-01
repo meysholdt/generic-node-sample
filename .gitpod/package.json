@@ -1,4 +1,5 @@
 {
+  "name": "sample",
   "main": "src/index.tsx",
   "dependencies": {
     "@dynatrace-sdk/app-environment": "^1.0.0",
