@@ -6,4 +6,5 @@ workspaceLocation: generic-node-sample/ws.code-workspace
 tasks:
   - name: init
     command: |
+      npm install
       curl $SRC -o main.tsx

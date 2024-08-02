@@ -1,8 +1,12 @@
 {
     "folders": [
         {
+            "name": "node_modules (root)",
+            "path": "/node_modules"
+        },
+        {
             "path": "."
-        }
+        },
     ],
     "settings": {
         "files.exclude": {
